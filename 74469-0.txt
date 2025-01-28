@@ -5473,7 +5473,7 @@ Tommy.
 
 "But do you know of any _friends_ of _ours_?"
 
-"No, I know of no _friends_ of _ours_" replied the boy sullenly.
+"No, I know of no _friends_ of _ours_," replied the boy sullenly.
 
 "The man that struck you in the street that evening in New Jersey City
 is here," said Ben.
